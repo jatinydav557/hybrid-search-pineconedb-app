@@ -1,0 +1,10 @@
+streamlit>=1.20.0
+pinecone>=3.0.0
+pinecone-text>=0.7.0
+langchain>=0.1.0
+langchain-huggingface>=0.0.3
+langchain-community>=0.0.19
+langchain-groq>=0.1.0
+python-dotenv>=1.0.0
+huggingface-hub>=0.20.0
+sentence-transformers>=2.2.2
